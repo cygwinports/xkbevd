@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libxkbfile1
-sdesc: "Xorg XKB event daemon"
-ldesc: "Xorg XKB event daemon"
+sdesc: "X.Org XKB event daemon"
+ldesc: "X.Org XKB event daemon"

@@ -1,6 +1,6 @@
 xkbevd
 ------------------------------------------
-Xorg XKB event daemon
+X.Org XKB event daemon
 
 Runtime requirements:
   cygwin-1.5.20-1
